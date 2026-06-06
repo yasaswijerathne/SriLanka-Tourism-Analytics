@@ -1,0 +1,150 @@
+Year,Month,Rainfall_mm,Avg_Temp_C,Notes
+2014,January,78,27.2,Normal conditions
+2014,February,52,27.8,Dry season
+2014,March,112,28.5,Inter-monsoon onset
+2014,April,238,28.2,First inter-monsoon
+2014,May,310,27.8,SW monsoon begins
+2014,June,185,27.2,SW monsoon
+2014,July,120,27,SW monsoon
+2014,August,108,27.1,SW monsoon
+2014,September,195,27.3,SW monsoon waning
+2014,October,348,27.2,NE monsoon onset; heavy rains
+2014,November,302,27,NE monsoon
+2014,December,148,26.9,NE monsoon
+2015,January,65,27.3,Dry season
+2015,February,48,27.9,Driest month; El Nino building
+2015,March,98,28.6,Inter-monsoon
+2015,April,215,28.3,First inter-monsoon
+2015,May,290,27.9,SW monsoon onset; El Nino effect
+2015,June,162,27.3,SW monsoon; below normal
+2015,July,105,27.1,SW monsoon; El Nino drier
+2015,August,90,27.2,SW monsoon; El Nino drier
+2015,September,175,27.4,SW monsoon waning
+2015,October,280,27.3,NE monsoon; below normal (El Nino)
+2015,November,265,27.2,NE monsoon; El Nino
+2015,December,182,27.1,NE monsoon
+2016,January,110,27.1,Above normal; post El Nino La Nina transition
+2016,February,72,27.7,Dry season
+2016,March,125,28.4,Inter-monsoon
+2016,April,265,28.1,First inter-monsoon; above normal
+2016,May,380,27.7,SW monsoon; severe floods May 2016
+2016,June,215,27.2,SW monsoon; above normal
+2016,July,140,27,SW monsoon
+2016,August,118,27.1,SW monsoon
+2016,September,210,27.3,SW monsoon waning
+2016,October,390,27.2,NE monsoon; flood events
+2016,November,355,27,NE monsoon; above normal
+2016,December,195,26.9,NE monsoon
+2017,January,95,27.2,Normal conditions
+2017,February,58,27.8,Dry season
+2017,March,108,28.5,Inter-monsoon
+2017,April,248,28.2,First inter-monsoon
+2017,May,345,27.7,SW monsoon; moderate flooding
+2017,June,198,27.2,SW monsoon
+2017,July,128,27,SW monsoon
+2017,August,112,27.1,SW monsoon
+2017,September,205,27.3,SW monsoon waning
+2017,October,362,27.2,NE monsoon onset; wet
+2017,November,318,27,NE monsoon; above normal
+2017,December,160,26.9,NE monsoon
+2018,January,82,27.3,Normal conditions
+2018,February,55,27.9,Dry season
+2018,March,115,28.6,Inter-monsoon
+2018,April,242,28.3,First inter-monsoon
+2018,May,295,27.8,SW monsoon
+2018,June,180,27.3,SW monsoon
+2018,July,115,27.1,SW monsoon
+2018,August,102,27.2,SW monsoon
+2018,September,188,27.4,SW monsoon waning
+2018,October,338,27.3,NE monsoon onset
+2018,November,298,27.1,NE monsoon
+2018,December,152,27,NE monsoon
+2019,January,70,27.4,Dry season; below normal
+2019,February,45,28,Driest; drought conditions north
+2019,March,95,28.7,Inter-monsoon; below normal
+2019,April,205,28.4,First inter-monsoon; deficit rainfall
+2019,May,265,28,SW monsoon; below normal
+2019,June,158,27.4,SW monsoon; below normal
+2019,July,100,27.2,SW monsoon; below normal
+2019,August,88,27.3,SW monsoon; below normal
+2019,September,168,27.5,SW monsoon waning; dry
+2019,October,310,27.4,NE monsoon onset
+2019,November,278,27.2,NE monsoon
+2019,December,145,27.1,NE monsoon
+2020,January,105,27.3,La Nina developing
+2020,February,68,27.9,Dry season
+2020,March,118,28.6,Inter-monsoon
+2020,April,268,28.3,First inter-monsoon; La Nina wetter
+2020,May,358,27.8,SW monsoon; La Nina above normal
+2020,June,205,27.3,SW monsoon; above normal
+2020,July,138,27.1,SW monsoon
+2020,August,122,27.2,SW monsoon
+2020,September,212,27.4,SW monsoon waning
+2020,October,385,27.3,NE monsoon; La Nina floods
+2020,November,348,27.1,NE monsoon; La Nina very wet
+2020,December,205,27,NE monsoon; La Nina
+2021,January,128,27.2,La Nina conditions; wet
+2021,February,78,27.8,Dry season
+2021,March,132,28.5,Inter-monsoon
+2021,April,285,28.2,First inter-monsoon; above normal
+2021,May,392,27.7,SW monsoon; severe flooding May 2021
+2021,June,225,27.2,SW monsoon; La Nina above normal
+2021,July,148,27,SW monsoon
+2021,August,130,27.1,SW monsoon
+2021,September,225,27.3,SW monsoon waning; above normal
+2021,October,405,27.2,NE monsoon; severe floods Oct 2021
+2021,November,368,27,NE monsoon; above normal
+2021,December,198,26.9,NE monsoon
+2022,January,88,27.3,Normal to slightly wet
+2022,February,60,27.9,Dry season
+2022,March,118,28.6,Inter-monsoon
+2022,April,258,28.3,First inter-monsoon
+2022,May,318,27.8,SW monsoon; floods in south
+2022,June,195,27.3,SW monsoon
+2022,July,128,27.1,SW monsoon
+2022,August,112,27.2,SW monsoon
+2022,September,198,27.4,SW monsoon waning
+2022,October,355,27.3,NE monsoon onset; flooding
+2022,November,315,27.1,NE monsoon; above normal
+2022,December,168,27,NE monsoon
+2023,January,82,27.4,Normal conditions
+2023,February,55,28,Dry season; El Nino building
+2023,March,108,28.7,Inter-monsoon
+2023,April,238,28.4,First inter-monsoon
+2023,May,282,27.9,SW monsoon onset; El Nino drying
+2023,June,168,27.4,SW monsoon; below normal (El Nino)
+2023,July,108,27.2,SW monsoon; El Nino drier
+2023,August,95,27.3,SW monsoon; El Nino drier
+2023,September,175,27.5,SW monsoon waning
+2023,October,302,27.4,NE monsoon onset; below normal
+2023,November,268,27.3,NE monsoon; El Nino
+2023,December,155,27.2,NE monsoon
+2024,January,68,27.6,Dry season; warm year
+2024,February,48,28.2,Driest month; El Nino peak effect
+2024,March,98,28.9,Inter-monsoon; warmest March on record
+2024,April,228,28.6,First inter-monsoon
+2024,May,272,28.1,SW monsoon; below normal
+2024,June,162,27.6,SW monsoon; below normal
+2024,July,105,27.4,SW monsoon
+2024,August,92,27.5,SW monsoon; below normal
+2024,September,182,27.7,SW monsoon waning
+2024,October,318,27.5,NE monsoon onset
+2024,November,282,27.4,NE monsoon
+2024,December,148,27.3,NE monsoon; annual total 1859mm (World Bank)
+2025,January,75,27.5,Normal conditions; post El Nino
+2025,February,52,28.1,Dry season; coldest March in 14 yrs follows
+2025,March,115,28,Inter-monsoon; coldest March in 14 years (28.02C avg)
+2025,April,245,28.2,First inter-monsoon
+2025,May,305,27.8,SW monsoon onset
+2025,June,185,27.2,SW monsoon; more sunshine than avg (7.70 hrs/day)
+2025,July,122,27.1,SW monsoon
+2025,August,110,27.2,SW monsoon
+2025,September,195,27.4,SW monsoon waning
+2025,October,345,27.3,NE monsoon onset
+2025,November,308,27.1,NE monsoon (data up to Jun 2025 verified; remainder estimated)
+2025,December,162,27,NE monsoon (estimated)
+2026,January,78,27.4,Estimated from seasonal norms
+2026,February,52,28,Estimated - dry season
+2026,March,108,28.5,Estimated - inter-monsoon
+2026,April,240,28.2,Estimated - first inter-monsoon
+2026,May,308,27.8,Estimated - SW monsoon onset

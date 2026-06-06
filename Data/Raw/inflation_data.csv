@@ -1,0 +1,150 @@
+Year,Month,Date,Inflation_Rate_YoY_Percent,Notes
+2014,January,2014-01,4.2,CCPI based
+2014,February,2014-02,3.9,CCPI based
+2014,March,2014-03,4,CCPI based
+2014,April,2014-04,3.5,CCPI based
+2014,May,2014-05,3.2,CCPI based
+2014,June,2014-06,3.3,CCPI based
+2014,July,2014-07,3.5,CCPI based
+2014,August,2014-08,2.9,CCPI based
+2014,September,2014-09,2.7,CCPI based
+2014,October,2014-10,2.5,CCPI based
+2014,November,2014-11,2.1,CCPI based
+2014,December,2014-12,2.1,CCPI based
+2015,January,2015-01,1.4,CCPI based
+2015,February,2015-02,0.9,CCPI based
+2015,March,2015-03,0.9,CCPI based
+2015,April,2015-04,1.4,CCPI based
+2015,May,2015-05,1.5,CCPI based
+2015,June,2015-06,1.7,CCPI based
+2015,July,2015-07,2.1,CCPI based
+2015,August,2015-08,2,CCPI based
+2015,September,2015-09,0.9,CCPI based
+2015,October,2015-10,1.2,CCPI based
+2015,November,2015-11,2.9,CCPI based
+2015,December,2015-12,2.8,CCPI based
+2016,January,2016-01,3.8,CCPI based
+2016,February,2016-02,4.2,CCPI based
+2016,March,2016-03,5.1,CCPI based
+2016,April,2016-04,5.3,CCPI based
+2016,May,2016-05,5.5,CCPI based
+2016,June,2016-06,5.6,CCPI based
+2016,July,2016-07,5.4,CCPI based
+2016,August,2016-08,4.4,CCPI based
+2016,September,2016-09,4,CCPI based
+2016,October,2016-10,3.7,CCPI based
+2016,November,2016-11,3.6,CCPI based
+2016,December,2016-12,4.5,CCPI based
+2017,January,2017-01,6,CCPI based
+2017,February,2017-02,7.6,CCPI based
+2017,March,2017-03,7,CCPI based
+2017,April,2017-04,6.9,CCPI based
+2017,May,2017-05,6.4,CCPI based
+2017,June,2017-06,6.7,CCPI based
+2017,July,2017-07,6.3,CCPI based
+2017,August,2017-08,6.1,CCPI based
+2017,September,2017-09,7.1,CCPI based
+2017,October,2017-10,7.8,CCPI based
+2017,November,2017-11,7.8,CCPI based
+2017,December,2017-12,7.1,CCPI based
+2018,January,2018-01,7.1,CCPI based
+2018,February,2018-02,6.2,CCPI based
+2018,March,2018-03,4.2,CCPI based
+2018,April,2018-04,3.3,CCPI based
+2018,May,2018-05,4,CCPI based
+2018,June,2018-06,4.6,CCPI based
+2018,July,2018-07,5.3,CCPI based
+2018,August,2018-08,5.6,CCPI based
+2018,September,2018-09,5.3,CCPI based
+2018,October,2018-10,6.3,CCPI based
+2018,November,2018-11,6,CCPI based
+2018,December,2018-12,2.8,CCPI based
+2019,January,2019-01,2.5,CCPI based
+2019,February,2019-02,2.8,CCPI based
+2019,March,2019-03,3.7,CCPI based
+2019,April,2019-04,3.1,CCPI based
+2019,May,2019-05,3.5,CCPI based
+2019,June,2019-06,3.4,CCPI based
+2019,July,2019-07,3.2,CCPI based
+2019,August,2019-08,3,CCPI based
+2019,September,2019-09,4.3,CCPI based
+2019,October,2019-10,5.4,CCPI based
+2019,November,2019-11,5.2,CCPI based
+2019,December,2019-12,4.8,CCPI based
+2020,January,2020-01,5.4,CCPI based
+2020,February,2020-02,5.4,CCPI based
+2020,March,2020-03,5.9,CCPI based
+2020,April,2020-04,6.8,CCPI based
+2020,May,2020-05,6.3,CCPI based
+2020,June,2020-06,5.7,CCPI based
+2020,July,2020-07,5.8,CCPI based
+2020,August,2020-08,5.6,CCPI based
+2020,September,2020-09,4.9,CCPI based
+2020,October,2020-10,4,CCPI based
+2020,November,2020-11,5.1,CCPI based
+2020,December,2020-12,5,CCPI based
+2021,January,2021-01,4.2,CCPI based
+2021,February,2021-02,4.5,CCPI based
+2021,March,2021-03,4.1,CCPI based
+2021,April,2021-04,5,CCPI based
+2021,May,2021-05,5.7,CCPI based
+2021,June,2021-06,6.1,CCPI based
+2021,July,2021-07,6,CCPI based
+2021,August,2021-08,6.2,CCPI based
+2021,September,2021-09,7.6,CCPI based
+2021,October,2021-10,8.3,CCPI based
+2021,November,2021-11,9.9,CCPI based
+2021,December,2021-12,12.1,CCPI based
+2022,January,2022-01,14.2,CCPI based - economic crisis period
+2022,February,2022-02,15.1,CCPI based - economic crisis period
+2022,March,2022-03,18.7,CCPI based - economic crisis period
+2022,April,2022-04,29.8,CCPI based - economic crisis period
+2022,May,2022-05,39.1,CCPI based - economic crisis period
+2022,June,2022-06,54.6,CCPI based - economic crisis period
+2022,July,2022-07,60.8,CCPI based - economic crisis period
+2022,August,2022-08,64.3,CCPI based - economic crisis period
+2022,September,2022-09,66,CCPI based - economic crisis period; peak inflation
+2022,October,2022-10,66,CCPI based - economic crisis period
+2022,November,2022-11,61,CCPI based
+2022,December,2022-12,57.2,CCPI based
+2023,January,2023-01,53.2,CCPI based - declining from peak
+2023,February,2023-02,50.3,CCPI based
+2023,March,2023-03,50.2,CCPI based
+2023,April,2023-04,35.3,CCPI based
+2023,May,2023-05,25.2,CCPI based
+2023,June,2023-06,12,CCPI based
+2023,July,2023-07,6.3,CCPI based
+2023,August,2023-08,4,CCPI based
+2023,September,2023-09,1.3,CCPI based
+2023,October,2023-10,0.8,CCPI based
+2023,November,2023-11,-0.5,CCPI based - deflation
+2023,December,2023-12,-1.8,CCPI based - deflation
+2024,January,2024-01,-2.3,CCPI based - deflation
+2024,February,2024-02,-3.8,CCPI based - deflation
+2024,March,2024-03,-4.6,CCPI based - deflation
+2024,April,2024-04,-3.7,CCPI based - deflation
+2024,May,2024-05,-1.5,CCPI based
+2024,June,2024-06,0.1,CCPI based
+2024,July,2024-07,1.5,CCPI based
+2024,August,2024-08,0.8,CCPI based
+2024,September,2024-09,0.5,CCPI based
+2024,October,2024-10,0.8,CCPI based
+2024,November,2024-11,1.1,CCPI based
+2024,December,2024-12,0.9,CCPI based
+2025,January,2025-01,1.8,CCPI based
+2025,February,2025-02,-4.2,CCPI based
+2025,March,2025-03,0.5,CCPI based
+2025,April,2025-04,0.6,CCPI based
+2025,May,2025-05,0.8,CCPI based
+2025,June,2025-06,1,CCPI based
+2025,July,2025-07,1.2,CCPI based
+2025,August,2025-08,1.2,CCPI based
+2025,September,2025-09,1.5,CCPI based
+2025,October,2025-10,2.1,CCPI based
+2025,November,2025-11,2,CCPI based
+2025,December,2025-12,1.9,CCPI based
+2026,January,2026-01,2.3,CCPI based
+2026,February,2026-02,1.6,CCPI based
+2026,March,2026-03,2.2,CCPI based
+2026,April,2026-04,2.5,CCPI based (estimated from CBSL)
+2026,May,2026-05,2.4,CCPI based (estimated from CBSL)
